@@ -1,1 +1,1 @@
-what the skibidi sigma china north korea propoganda
+if u read this ur a skibidi sigma alph rizzler of ohio gyatterton
