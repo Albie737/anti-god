@@ -1,4 +1,1 @@
-I eat grand pianos
-you shold too
-you want my of
-kk
+what the skibidi sigma china north korea propoganda
