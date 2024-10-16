@@ -29,8 +29,7 @@ p {
   margin-bottom: 20px;
 }
 
-a:link, a:visited {
-  background-color: white;
+a:link, a:visited, a:hover, a:active {
   color: blue;
   border: 2px solid green;
   padding: 10px 20px;
