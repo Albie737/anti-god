@@ -30,10 +30,10 @@ p {
 }
 
 a, a:link, a:visited, a:hover, a:active {
+  text-align: center;
   color: blue;
   border: 2px solid green;
   padding: 10px 20px;
-  text-align: center;
   text-decoration: none;
   display: inline-block;
 }
